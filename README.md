@@ -17,6 +17,9 @@ allows users to share and edit geospatial data. Designed for interoperability, i
 * GeoServer gs-wps-spatialstatistics licensed under the [GPL](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html).
 * uDig org.locationtech.udig.processingtoolbox licensed under the [EPL](http://www.eclipse.org/legal/epl-v10.html) + [BSD](http://udig.refractions.net/files/bsd3-v10.html).
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjinifor%2Fspatial_statistics_for_geotools_udig.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjinifor%2Fspatial_statistics_for_geotools_udig?ref=badge_large)
+
 ### Download GeoTools & GeoServer WPS libraries
 * Visit [SourceForge](https://sourceforge.net/projects/mango-spatialstatistics/)
 
@@ -62,6 +65,7 @@ allows users to share and edit geospatial data. Designed for interoperability, i
 ### Gallery
 
 ![screenshot](https://github.com/mapplus/spatial_statistics_for_geotools_udig/blob/master/docs/images/geoserver_wps_request.png?width=800)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjinifor%2Fspatial_statistics_for_geotools_udig.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjinifor%2Fspatial_statistics_for_geotools_udig?ref=badge_shield)
 
 
 ![screenshot](https://github.com/mapplus/spatial_statistics_for_geotools_udig/blob/master/docs/images/geoserver_wps_client.png?width=800)
